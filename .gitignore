@@ -1,0 +1,13 @@
+# Ignore files
+/wp-content/themes/twenty*
+/sitemap.*
+wp-config.php
+*.sql
+
+# Ignore .well-known folder
+.well-known/
+
+# remove .DS_Store
+.DS_Store
+.project
+error_log
